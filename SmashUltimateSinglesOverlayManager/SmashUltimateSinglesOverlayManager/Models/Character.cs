@@ -92,7 +92,7 @@ namespace SmashUltimateSinglesOverlayManager.Models
                 new Character(29, "Lucario", @"..\\characterIcons\\lucario.png"),
                 new Character(30, "Lucas", @"..\\characterIcons\\lucas.png"),
                 new Character(31, "Lucina", @"..\\characterIcons\\lucina.png"),
-                new Character(32, "Luigi", @"..\\characterIconsluigi.png"),
+                new Character(32, "Luigi", @"..\\characterIcons\\luigi.png"),
                 new Character(33, "Mario", @"..\\characterIcons\\mario.png"),
                 new Character(34, "Marth", @"..\\characterIcons\\marth.png"),
                 new Character(35, "Mega Man", @"..\\characterIcons\\megaman.png"),
