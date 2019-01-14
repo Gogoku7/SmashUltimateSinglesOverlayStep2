@@ -1,5 +1,7 @@
 # SmashUltimateSinglesOverlayStep2
-Step 2 of a project to create a dynamically editable overlay for Super Smash Bros. Ultimate Singles usable for any tournament streamer using HTML, CSS and C#.
+Not actively in development, use the Livestream Production Manager instead for the latest and greatest: https://github.com/Gogoku7/LivestreamProductionManager
+
+Step 2 of a project to create a dynamically editable overlay for Super Smash Bros. Ultimate Singles usable for any tournament streamer using HTML, JavaScript, CSS and C#.
 
 Changes from Step 1:
 - The manager solution/application has been added to the project, meaning you don't have to manually edit css files!
